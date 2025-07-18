@@ -1,0 +1,44 @@
+﻿<Window x:Class="Dark_Souls_Game___NoahAzurNacar.AbenteuerFenster"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dark_Souls_Game___NoahAzurNacar"
+        mc:Ignorable="d"
+        Title="Dark Souls" Height="550" Width="700" Background="Gray"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid ShowGridLines="True" >
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+
+        
+        <Image x:Name="ImageboxKlassenInfoFenster"  Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"/>
+        <Image x:Name="ImageboxMonster"  Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"/>
+
+        
+        <Button Content="Angriff" Click="btnAngriff_Click"  VerticalAlignment="Bottom"   Width="100"  Height="40"  Margin="4"  Background="White" Grid.Row="0" Grid.Column="1"/>
+        <Button Content="Aussetzen" Click="btnAussetzen_Click"  VerticalAlignment="Center"   Width="100"  Height="40"  Margin="4"  Background="White" Grid.Row="1" Grid.Column="1"/>
+        <Button Content="Heilen" Click="btnHeilen_Click"  VerticalAlignment="Top"   Width="100"  Height="40"  Margin="4"  Background="White" Grid.Row="2" Grid.Column="1"/>
+
+        <TextBlock Name="txtSpielerStatsKampf" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="white" Grid.Row="2" Grid.Column="0"/>
+        <TextBlock Name="txtGegnerStatsKampf" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="white" Grid.Row="2" Grid.Column="2"/>
+
+        <ListBox Name="lbStatusKampfSpieler" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" Grid.Row="1" Grid.Column="0" Height="75" Width="240"/>
+        <ListBox Name="lbStatusKampfGegner" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" Grid.Row="1" Grid.Column="2" Height="75" Width="240"/>
+
+
+
+
+
+    </Grid>
+</Window>

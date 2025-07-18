@@ -1,0 +1,50 @@
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.exe
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.deps.json
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.runtimeconfig.json
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.dll
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.pdb
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\App.g.cs
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar_MarkupCompile.cache
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar_MarkupCompile.lref
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\MainWindow.baml
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.g.resources
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.AssemblyInfoInputs.cache
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.AssemblyInfo.cs
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.dll
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\refint\Dark Souls Game  _NoahAzurNacar.dll
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.pdb
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.genruntimeconfig.cache
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\ref\Dark Souls Game  _NoahAzurNacar.dll
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\KlassenInfoFenster.g.cs
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\KlassenInfoFenster.baml
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Zentrale.g.cs
+D:\VisualStudio2022\C#\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Zentrale.baml
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.exe
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.deps.json
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.runtimeconfig.json
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.dll
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\bin\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.pdb
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Zentrale.g.cs
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\App.g.cs
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar_MarkupCompile.cache
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar_MarkupCompile.lref
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\MainWindow.baml
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Zentrale.baml
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.g.resources
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.AssemblyInfoInputs.cache
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.AssemblyInfo.cs
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.dll
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\refint\Dark Souls Game  _NoahAzurNacar.dll
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.pdb
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\Dark Souls Game  _NoahAzurNacar.genruntimeconfig.cache
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\ref\Dark Souls Game  _NoahAzurNacar.dll
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\AbenteuerFenster.g.cs
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\AbenteuerFenster.baml
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\AbenteuerAbschlussFenster.g.cs
+D:\VisualStudio2022\C# WPF\Projekte\Dark Souls Game  _NoahAzurNacar\Dark Souls Game  _NoahAzurNacar\obj\Debug\net8.0-windows\AbenteuerAbschlussFenster.baml

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Dark_Souls_Game___NoahAzurNacar</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="SpielBilder\KlassenBilder\ritter.png" />
+    <None Remove="SpielBilder\KlassenBilder\samurai.png" />
+    <None Remove="SpielBilder\MonsterBilder\monster.png" />
+    <None Remove="SpielBilder\MonsterBilder\zombie.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="SpielBilder\KlassenBilder\samurai.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="SpielBilder\KlassenBilder\magier.png" />
+    <Resource Include="SpielBilder\KlassenBilder\ritter.png" />
+    <Resource Include="SpielBilder\MonsterBilder\zombie.png" />
+  </ItemGroup>
+
+</Project>

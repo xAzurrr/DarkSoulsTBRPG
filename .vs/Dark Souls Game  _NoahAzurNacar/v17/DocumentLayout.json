@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\samurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\samurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\ritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\ritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\magier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\magier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\abenteuerabschlussfenster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\abenteuerabschlussfenster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\abenteuerfenster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\abenteuerfenster.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\abenteuerfenster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\abenteuerfenster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\abenteuerabschlussfenster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\abenteuerabschlussfenster.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\zentrale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\zentrale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\zentrale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\zentrale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\dark souls game  _noahazurnacar\\dark souls game  _noahazurnacar\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A81356-0DD7-48BA-9CA8-3435AD0B9180}|Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar.csproj|solutionrelative:dark souls game  _noahazurnacar\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Magier.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Magier.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\Magier.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Magier.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\Magier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:20:14.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ritter.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Ritter.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\Ritter.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Ritter.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\Ritter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:11:59.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Samurai.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Samurai.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\Samurai.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Samurai.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\Samurai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:11:55.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbenteuerAbschlussFenster.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\AbenteuerAbschlussFenster.xaml",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\AbenteuerAbschlussFenster.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\AbenteuerAbschlussFenster.xaml",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\AbenteuerAbschlussFenster.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T12:10:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbenteuerFenster.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\AbenteuerFenster.xaml.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\AbenteuerFenster.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\AbenteuerFenster.xaml.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\AbenteuerFenster.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:33:30.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbenteuerFenster.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\AbenteuerFenster.xaml",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\AbenteuerFenster.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\AbenteuerFenster.xaml",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\AbenteuerFenster.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T20:29:41.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbenteuerAbschlussFenster.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\AbenteuerAbschlussFenster.xaml.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\AbenteuerAbschlussFenster.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\AbenteuerAbschlussFenster.xaml.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\AbenteuerAbschlussFenster.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:10:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:20:53.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Zentrale.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Zentrale.xaml",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\Zentrale.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Zentrale.xaml",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\Zentrale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T20:29:18.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\GameCharacter.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\GameCharacter.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\GameCharacter.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:20:36.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\MainWindow.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\MainWindow.xaml",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T12:31:35.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Zentrale.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Zentrale.xaml.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\Zentrale.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Zentrale.xaml.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\Zentrale.xaml.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAWwMkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:30:34.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Monster.cs",
+              "RelativeDocumentMoniker": "Dark Souls Game  _NoahAzurNacar\\Monster.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Dark Souls Game  _NoahAzurNacar\\Dark Souls Game  _NoahAzurNacar\\Monster.cs",
+              "RelativeToolTip": "Dark Souls Game  _NoahAzurNacar\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:29:50.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
